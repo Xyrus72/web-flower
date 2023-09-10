@@ -1,0 +1,36 @@
+.boro-lekha{
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center ;
+    background-color: rgb(99, 182, 255);
+    
+
+
+}
+
+.hudai{
+    background-color: rgba(221, 255, 96, 0.459);
+    padding: 150px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+
+}
+
+.choto-lekha{
+    text-align:center ;
+}
+
+.text{
+    width: 50%;
+}
+
+.flower{
+    width: 50%;
+    
+    
+}
