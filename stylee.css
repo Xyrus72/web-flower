@@ -6,31 +6,64 @@
     font-weight: 800;
     line-height: normal;
     text-align: center ;
-    background-color: rgb(99, 182, 255);
+    
+    margin-bottom: 20px;
+    margin-right: 150px;
+    padding: 80px;
+    margin-left: 160px;
     
 
 
 }
 
 .hudai{
-    background-color: rgba(221, 255, 96, 0.459);
-    padding: 150px;
+    background: rgba(229, 84, 115, 0.10);
+
+    
     display: flex;
     justify-content: space-between; 
     align-items: center;
+    height: 850px;
+    
 
 }
 
 .choto-lekha{
     text-align:center ;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 210px;
 }
 
 .text{
     width: 50%;
+    
 }
 
 .flower{
-    width: 50%;
+    width: auto;
+    flex-shrink: 0;
+    height: 850px;
+    margin-right: 300px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
     
-    
+.btn{
+    background-color: rgb(230, 85, 165);
+    margin-left: 220px;
+    padding: 20px 30px ;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 10px;
+    border-color: none;
+
 }
