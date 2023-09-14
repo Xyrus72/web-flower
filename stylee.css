@@ -67,3 +67,50 @@
     border-color: none;
 
 }
+
+.l{
+    margin-top: 150px;
+    justify-content: center;
+    
+    display: flex;
+    font-size: 40px;
+}
+
+.c{
+    justify-content: center;
+    font-size: 18px;
+    display: flex; 
+}
+
+.back-pic{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    
+
+
+}
+.skill1{
+    background: #272727;
+    margin-right: 20px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+
+}
+.skill2{
+    background: brown;
+    margin-right: 20px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+
+}
+.skill3{
+    background: #272727;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+
+
+}
