@@ -152,6 +152,10 @@
     margin-top: 150px;
     background: rgba(39, 39, 39, 0.05);
     padding: 50px;
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
     
 
 }
@@ -181,4 +185,45 @@
     font-style: normal;
     font-weight: 600;
     line-height: 35px;
+}
+
+.rd{
+    background: rgba(229, 84, 115, 0.10);
+    padding: 70px;
+
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    
+}
+.non1{
+    margin-left: 290px;
+}
+
+.non{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 250px;
+
+
+}
+.ch{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+
+}
+
+.text-primary{
+    color: rgb(230, 85, 165);
 }
