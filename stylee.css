@@ -227,3 +227,14 @@
 .text-primary{
     color: rgb(230, 85, 165);
 }
+
+.pp{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color:  rgb(230, 85, 165);
+    border-radius: 10px;
+}
