@@ -238,3 +238,76 @@
     background-color:  rgb(230, 85, 165);
     border-radius: 10px;
 }
+
+.las{
+    text-align: center;
+}
+.las1{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 90px;
+}
+.las2{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.praysesh{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.q1{
+    margin-right: 20px;
+}
+.q2{
+    margin-right: 20px;
+}
+.q3{
+    margin-right: 20px;
+}
+
+.so{
+    background:url(../web-dev-portfolio/Rectangle\ 9.png)
+    
+    
+}
+.so{
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-position: center ;
+    margin-top: 130px;
+}
+
+.classnai{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+    margin-top: 120px;
+}
+
+.pppp{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
