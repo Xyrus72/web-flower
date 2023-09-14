@@ -145,3 +145,40 @@
     line-height: 35px; /* 145.833% */
     text-decoration-line: underline;
 }
+
+.loki{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px;
+    
+
+}
+
+.a1{
+    margin-right:80px ;
+    
+}
+.a2{
+    margin-right: 80px;
+}
+
+
+.pic1{
+    margin-left: 120px;
+
+}
+.pic2{
+    margin-left: 50px;
+}
+
+.delivery-text{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
